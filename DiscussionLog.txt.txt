@@ -1,0 +1,10 @@
+Michael Chau
+Discussion Log
+Lab 12 Inheritance
+
+1 1/2 hrs 	Inheritance_Ex1 _1 & Inheritance_Ex2 _1
+
+What I learned:
+
+What I learned it how to use inheritance in java. I was able to sucessfully make super classes and 
+rearrange the coding so it works.
